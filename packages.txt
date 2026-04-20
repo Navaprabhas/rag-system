@@ -1,3 +1,2 @@
-# System dependencies for Streamlit Cloud
 libpoppler-cpp-dev
 tesseract-ocr
