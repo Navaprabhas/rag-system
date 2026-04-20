@@ -1,0 +1,2 @@
+# Gradio App Requirements (Minimal for Hugging Face Spaces)
+gradio==4.16.0
