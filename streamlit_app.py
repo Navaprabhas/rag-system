@@ -1,12 +1,12 @@
 """
-Streamlit Cloud Deployment - Standalone Demo Version
-This is a simplified version that works without the full backend.
-For production use, deploy the full system using Docker.
+Streamlit Cloud Deployment - Documentation Demo
+This is a documentation/showcase version for Streamlit Cloud.
+For the full interactive system, use Docker deployment.
 """
 import streamlit as st
 
 st.set_page_config(
-    page_title="RAG System - Demo",
+    page_title="RAG System - Documentation",
     page_icon="🔍",
     layout="wide",
     initial_sidebar_state="expanded"
