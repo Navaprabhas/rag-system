@@ -1,6 +1,15 @@
 # Production-Grade RAG System with Anti-Hallucination Guarantees
 
+[![GitHub](https://img.shields.io/badge/GitHub-Navaprabhas%2Frag--system-blue?logo=github)](https://github.com/Navaprabhas/rag-system)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Deploy-FF4B4B?logo=streamlit)](https://share.streamlit.io/)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](https://www.docker.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A complete, production-ready Retrieval-Augmented Generation (RAG) system built with strict anti-hallucination controls, clean architecture, and deployment readiness.
+
+**🚀 [Live Demo](https://share.streamlit.io/)** | **📖 [Documentation](https://github.com/Navaprabhas/rag-system#readme)** | **🐳 [Quick Start](#-quick-start)**
 
 ## 🎯 Core Features
 
