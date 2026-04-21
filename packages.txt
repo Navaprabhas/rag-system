@@ -1,2 +1,0 @@
-# System-level dependencies for Streamlit Cloud
-# Empty - no system packages needed for demo app
