@@ -1,1 +1,8 @@
-streamlit==1.30.0
+# Streamlit Cloud Deployment Requirements
+# This file contains minimal dependencies for the demo streamlit_app.py
+
+# Core Framework
+streamlit>=1.30.0
+
+# Required for proper rendering
+python-dotenv>=1.0.0
