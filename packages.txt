@@ -1,5 +1,2 @@
 # System-level dependencies for Streamlit Cloud
-# These are installed via apt-get
-
-# Required for some Python packages
-build-essential
+# Empty - no system packages needed for demo app
